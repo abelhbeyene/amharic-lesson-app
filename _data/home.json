@@ -1,0 +1,92 @@
+{
+    "Vocabulary": [
+        {
+            "name": "Animals \u2013 \u12a5\u1295\u1235\u1233\u1275",
+            "data": "animals"
+        },
+        {
+            "name": "Appearance \u2013 \u12a5\u12ed\u1273",
+            "data": "appearance"
+        },
+        {
+            "name": "Body Parts \u2013 \u12a0\u12ab\u120d \u12ad\u134d\u120e\u127d",
+            "data": "body-parts"
+        },
+        {
+            "name": "Colors \u2013 \u1240\u1208\u121e\u127d",
+            "data": "colors"
+        },
+        {
+            "name": "Foods \u2013 \u121d\u130d\u1265 & \u1218\u1320\u1325",
+            "data": "food-drink"
+        },
+        {
+            "name": "Fruits & Vegetables",
+            "data": "fruits-veg"
+        },
+        {
+            "name": "Home \u2013 \u1264\u1275",
+            "data": "home"
+        },
+        {
+            "name": "In the City \u2013 \u12a8\u1270\u121b \u12cd\u1235\u1325",
+            "data": "incity"
+        },
+        {
+            "name": "In the Kitchen \u2013 \u12a9\u123d\u1293",
+            "data": "kitchen"
+        },
+        {
+            "name": "Nature \u2013 \u1270\u1348\u1325\u122e",
+            "data": "nature"
+        },
+        {
+            "name": "Occupation \u2013 \u1219\u12eb",
+            "data": "occupation"
+        },
+        {
+            "name": "Relationships \u2013 \u12dd\u121d\u12f5\u1293",
+            "data": "relationships"
+        },
+        {
+            "name": "Time \u2013 \u130a\u12dc",
+            "data": "time"
+        },
+        {
+            "name": "Wearable \u2013 \u121a\u1208\u1260\u1231",
+            "data": "wearable"
+        }
+    ],
+    "Quizes ": [
+        {
+            "name": "1 \u2013 Amharic to Amhanglish",
+            "data": "quiz1"
+        },
+        {
+            "name": "2 \u2013 Image to Amharic",
+            "data": "quiz2"
+        },
+        {
+            "name": "3 \u2013 Image to Amhanglish",
+            "data": "quiz3"
+        },
+        {
+            "name": "4 \u2013 Sound to Amharic",
+            "data": "quiz4"
+        },
+        {
+            "name": "5 \u2013 Sound to English",
+            "data": "quiz5"
+        }
+    ],
+    "Essentials": [
+        {
+            "name": "Amharic Alphabets \u2013 \u134a\u12f0\u120b\u1275",
+            "data": "hahu"
+        },
+        {
+            "name": "Numbers \u2013 \u1241\u1325\u122e\u127d",
+            "data": "numbers"
+        }
+    ]
+}
